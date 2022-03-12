@@ -1,0 +1,8 @@
+[tb_clear_images][mask time=200][bg  time="600"  storage="kaisou.jpg"  _tb_parts_type="bg"  ]
+[tb_replay_image_button  graphic="scene1-6-1-3full.png"  storage="b_route.ks"  target="*kaisou_b"  role="sleepgame"  no_graphic="&sf._tb_replay_noimage"  time="1"  width="200"  height="300"  x="90"  y="200"  _tb_parts_type="replay_image_button"  id="omorashi_end"  ]
+[tb_replay_image_button  graphic="scene2-3_2.jpg"  storage="scene1.ks"  target="*kaisou_A1"  role="sleepgame"  no_graphic="&sf._tb_replay_noimage"  time="1"  width="200"  height="300"  x="350"  y="200"  _tb_parts_type="replay_image_button"  id="flying_end"  ]
+[button  graphic="config/c_btn_back2.png"  storage="title_screen.ks"  target=""  time="1"  width="100"  height="100"  x="530"  y="10"  _tb_parts_type="button"  ]
+[tb_replay_image_button  graphic="scene3-8.jpg"  storage="a2_route.ks"  target="*kaisou_a2"  role="sleepgame"  no_graphic="&sf._tb_replay_noimage"  time="1"  width="200"  height="300"  x="90"  y="545"  _tb_parts_type="replay_image_button"  id="omorashi_end2"  ]
+[tb_replay_image_button  graphic="scene4-1full.jpg"  storage="epilogue.ks"  target="*kaisou_hokensitu"  role="sleepgame"  no_graphic="&sf._tb_replay_noimage"  time="1"  width="200"  height="300"  x="350"  y="545"  _tb_parts_type="replay_image_button"  id="hokensitu"  ]
+[mask_off time=200] 
+[s] 
